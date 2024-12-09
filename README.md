@@ -20,10 +20,5 @@ Creating impactful solutions that blend innovation and practicality.
 ⚡ **Fun Fact:**  
 I build bots that people mistake for humans! 🤖  
 
----
-
-![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASAD5401&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASAD5401&layout=compact&theme=radical)  
-
 💻 **Let’s Collaborate!**  
 Feel free to explore my repositories or reach out for collaboration opportunities.  
