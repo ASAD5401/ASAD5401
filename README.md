@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Asad! 👋  
+**Full-Stack Developer | React | Next.js | Node.js | Chatbot Specialist**  
 
-<!--
-**ASAD5401/ASAD5401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Skills:**  
+- **Frontend**: React, Next.js, HTML, CSS, Tailwind  
+- **Backend**: Node.js, Express, MongoDB  
+- **AI/Chatbots**: AI-driven conversational systems  
 
-Here are some ideas to get you started:
+🔭 **Currently Working On:**  
+Building scalable web apps and intelligent chatbots to automate workflows.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 **What I Love:**  
+Creating impactful solutions that blend innovation and practicality.  
+
+📫 **How to Reach Me:**  
+- [Portfolio](https://asad-ali-khan.vercel.app/)  
+- [Email Me](mailto:asadali5401@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/2ak/)  
+
+⚡ **Fun Fact:**  
+I build bots that people mistake for humans! 🤖  
+
+---
+
+![Asad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ASAD5401e&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ASAD5401&layout=compact&theme=radical)  
+
+💻 **Let’s Collaborate!**  
+Feel free to explore my repositories or reach out for collaboration opportunities.  
